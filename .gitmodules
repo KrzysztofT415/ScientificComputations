@@ -1,0 +1,15 @@
+[submodule "SC-L1"]
+	path = SC-L1
+	url = https://github.com/KrzysztofT415/SC-L1
+[submodule "SC-L2"]
+	path = SC-L2
+	url = https://github.com/KrzysztofT415/SC-L2
+[submodule "SC-L3"]
+	path = SC-L3
+	url = https://github.com/KrzysztofT415/SC-L3
+[submodule "SC-L4"]
+	path = SC-L4
+	url = https://github.com/KrzysztofT415/SC-L4
+[submodule "SC-L5"]
+	path = SC-L5
+	url = https://github.com/KrzysztofT415/SC-L5
